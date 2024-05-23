@@ -2,5 +2,5 @@
 
 ### Our mission is to _increase the surface area of success*_ for founders.
 
-*Success = Cash
-(Our goal is to generate $1B in Profit & Carry Share by 2040)
+*Success = Cash<br>
+(We aim to generate $1B in Profit & Carry Share by 2040)
